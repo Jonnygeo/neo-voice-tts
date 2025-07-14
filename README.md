@@ -36,6 +36,14 @@ Neo Voice TTS is a plug-and-play text-to-speech rendering module that transforms
 - Plugs into NeoLegacy voice delivery system
 
 ---
+...
+
+## 🚀 Setup
+
+```bash
+git clone https://github.com/Jonnygeo/neo-voice-tts.git
+cd neo-voice-tts
+npm install
 
 ## 🚀 Setup
 
