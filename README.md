@@ -43,3 +43,45 @@ Neo Voice TTS is a plug-and-play text-to-speech rendering module that transforms
 git clone https://github.com/Jonnygeo/neo-voice-tts.git
 cd neo-voice-tts
 npm install
+
+---
+
+## 🧩 Connected Modules
+
+| Module             | Role                                      |
+|--------------------|-------------------------------------------|
+| `neo-voice-core`   | Requests voice render from text           |
+| `neo-msg-deliver`  | Delivers rendered audio messages          |
+| `NeoLegacy`        | Plays voice clips from dashboard interface|
+
+---
+
+## 🛡 LICENSE SUMMARY
+
+> This module is protected under a custom NeoLegacy license.  
+> **Non-commercial use only.** No rebranding, reselling, or SaaS cloning permitted.  
+> See full [LICENSE](./LICENSE) file for terms.
+
+---
+
+## 🔗 Social & Community
+
+<p align="center">
+  <a href="https://x.com/neoshade2025">
+    <img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@neoshade">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://social.neo-shade.com">
+    <img src="https://img.shields.io/badge/NeoShade%20Social-Join-blueviolet?style=for-the-badge&logo=discourse&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Author
+
+**JonnyG (aka JokerJonny)**  
+AI Dev • Cyber Defense • Digital Legacy Architect  
+[github.com/Jonnygeo](https://github.com/Jonnygeo)
